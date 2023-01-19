@@ -1,1 +1,1 @@
-# .github
+About globest team
