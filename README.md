@@ -1,1 +1,1 @@
-About globest team
+About globers team
