@@ -1,10 +1,9 @@
 Globers Team is a game studio driven by Szypob and Glob.
 We are making a few games. For example:
-- Glob Shooter
-- Blacksmith Simulator
-- SCP: The Recontainment Mission
+- Glob Shooter 2
 
-We listen to our Community! If you want to join it: https://discord.gg/SWv9Su6GEj
-Remember, we want Your suggestions!
+We do not listen to our Community!
+Remember, we don't want your suggestions!
 
 Our website is: https://globers-team.github.io
+s
