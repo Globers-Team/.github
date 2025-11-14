@@ -6,4 +6,3 @@ We do not listen to our Community!
 Remember, we don't want your suggestions!
 
 Our website is: https://globers-team.github.io
-s
